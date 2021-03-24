@@ -41,7 +41,8 @@ Some of the content that I plan to put out in the first couple of months is:
 * What webdev courses and learning I am doing
 * Posting coding challenges from my courses
 * Instructional content
-* Tech writing 
+* Any tech writing stuff that I think will be of particular help to new devs
+* Make changes to this site to show off my new skills (and blog about it of course)
 
 Thanks for stopping by, and make sure to keep an eye out as I will be posting some new content really soon.
 
