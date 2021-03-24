@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Hello, World!
+alert( 'Hello, world!' );
 
 Welcome to WeDev Journey where I (TJ) will be keeping track of my progress whilst learning new web development skills.  
 
@@ -47,7 +47,3 @@ Thanks for stopping by, and make sure to keep an eye out as I will be posting so
 
 TJ
 
-
-``` text/2-3
-alert( 'Hello, world!' );
-```
